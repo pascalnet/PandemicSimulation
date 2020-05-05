@@ -1,4 +1,4 @@
-# PandemicSimulation
+# Pandemic Simulation
 Pandemic Simulation in Unity  
 Ways of viewing the simulation:  
 WebGL Version:  [http://thinkr.io/p/pandemic](http://thinkr.io/p/pandemic)  
